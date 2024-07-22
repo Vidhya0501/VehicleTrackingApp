@@ -1,5 +1,5 @@
 Vehicle Tracking App 
-Simulation of vehicle tracking app using react-leaflet and websocket in nodejs.
+Simulation of vehicle tracking app using react js, react-leaflet, Open Street Map and websocket in nodejs.
 
 ![image](https://github.com/user-attachments/assets/3c65e482-327c-45b3-bcd6-6ce1901e12ba)
 
