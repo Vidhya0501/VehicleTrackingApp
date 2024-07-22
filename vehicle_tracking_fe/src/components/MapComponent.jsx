@@ -97,7 +97,7 @@ const MapComponent = () => {
   const [ws, setWs] = useState(null);
 
   useEffect(() => {
-    const socket = new WebSocket('ws://localhost:8080');
+    const socket = new WebSocket('wss://vehicletrackingapp.onrender.com');
     setWs(socket);
 
     socket.onmessage = (event) => {
